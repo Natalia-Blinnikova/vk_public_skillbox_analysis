@@ -9,7 +9,7 @@
 * attachments type and number
 * topic of the text
 * number of comments, likes, views and reposts
-<br> During the work I have used tools:
+<br> <br>During the work I have used tools:
 * VK-API 
 * requests module
 * pandas
@@ -32,7 +32,7 @@
 * тип и количество вложений 
 * тема текста
 * количество комментариев, репостов, лайков и просмотров
-<br> В ходе работы я использовала инструменты:
+<br> <br> В ходе работы я использовала инструменты:
 * VK-API 
 * requests module
 * pandas
