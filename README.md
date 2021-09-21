@@ -2,7 +2,7 @@
 # Parcing of the VK-public of Skillbox and analysis for recomendations for SMM
 <br> For Russian scroll down
 ### What has been made?
-<br> I have parced a public page of Skillbox - this is a online-education company - and analyses retrived data, using pandas.
+<br> I have parced a public page of Skillbox - this is an online-education company - and analyses retrived data, using pandas.
 <br> I have parced a bit more than 1000 posts in this public and extracted this data about each of them:
 * time of the publication
 * text
